@@ -10,7 +10,7 @@
 [<img src="" alt="Lun Spotify Playing" width="350" />](https://open.spotify.com/user/r5n743pzm2fm0gad9jmfraohg)
 
 ### Connect with me:
-
+[<span class="material-icons">face</span>]
 [<img align="left" alt="codeSTACKr | HackMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][hackmd]
 [<img align="left" alt="codeSTACKr | GoogleBlog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blogger.svg" />][googleblog]
 [<img align="left" alt="codeSTACKr | SlideShare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slideshare.svg" />][slideshare]
