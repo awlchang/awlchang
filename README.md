@@ -25,7 +25,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
+<img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <br />
 <br />
 
@@ -48,11 +50,11 @@
 ### 📕 Latest HackMD Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Generate HTML documentation site with AsyncAPI on Windows 10](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/Hy22Mkood)
+- [Part 3 - Integrating zewelor/bt-mqtt-gateway and Home Assistant](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/Bkn1LUhq_)
+- [Part 2 - How to embed a hass-configurator webpage into Home Assistant on Raspberry Pi 4 in a Docker container](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/BJzBZEoqd)
+- [Part 1 - How to run Home Assistant on Raspberry Pi 4 in a Docker container](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/rJ_-X24cO)
+- [Creating a new image from an existing container with a Dockerfile](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/B1di8OPju)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more hackmd posts...](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw)
