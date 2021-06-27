@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to climb a mountain and meditate
 
 ### Spotify Playing 🎧
-[<img src="novatorem-awlchang.vercel.app/api/spotify-playing" alt="Lun Spotify Playing" width="350" />](https://open.spotify.com/user/r5n743pzm2fm0gad9jmfraohg)
+[<img src="https://novatorem-awlchang.vercel.app/api/spotify" alt="Lun Spotify Playing" width="350" />](https://open.spotify.com/user/r5n743pzm2fm0gad9jmfraohg)
 
 ### Connect with me:
 [<span class="material-icons">face</span>]
