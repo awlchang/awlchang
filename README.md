@@ -7,6 +7,7 @@
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem-awlchang.vercel.app/api/spotify" alt="Lun Spotify Playing" width="350" />](https://open.spotify.com/user/r5n743pzm2fm0gad9jmfraohg)
+[![Spotify](https://novatorem-awlchang.vercel.app/api/spotify)](https://open.spotify.com/user/r5n743pzm2fm0gad9jmfraohg)
 
 ### Connect with me:
 [<span class="material-icons">face</span>]
