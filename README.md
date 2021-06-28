@@ -9,7 +9,7 @@
 [<img src="https://novatorem-awlchang.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/r5n743pzm2fm0gad9jmfraohg) -->
 
 ### Connect with me:
-[<img align="left" alt="akashic | HackMD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/readthedocs.svg" />][hackmd]
+[<img align="left" alt="akashic | HackMD" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/document--v1.png" />][hackmd]
 [<img align="left" alt="akashic | GoogleBlog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/blogger.svg" />][googleblog]
 [<img align="left" alt="akashic | SlideShare" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slideshare.svg" />][slideshare]
 [<img align="left" alt="akashic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][youtube]
