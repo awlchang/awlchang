@@ -54,11 +54,11 @@
 ### 📕 Latest HackMD Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Part 3 - Integrating zewelor/bt-mqtt-gateway and Home Assistant](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/Bkn1LUhq_)
+- [Part 2 - How to embed a hass-configurator webpage into Home Assistant on Raspberry Pi 4 in a Docker container](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/BJzBZEoqd)
+- [Part 1 - How to run Home Assistant on Raspberry Pi 4 in a Docker container](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/rJ_-X24cO)
+- [Creating a new image from an existing container with a Dockerfile](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/B1di8OPju)
+- [Generating HTML documentation site with AsyncAPI on Windows 10](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/Hy22Mkood)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more hackmd posts...](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw)
@@ -70,10 +70,10 @@
   
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing) -->
+1. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+2. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing) -->
 <!--END_SECTION:activity-->
 
 <!-- </details> -->
