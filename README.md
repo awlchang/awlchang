@@ -52,15 +52,13 @@
 <!-- --- -->
 
 ### 📕 Latest HackMD Posts
-
-<!-- BLOG-POST-LIST:START -->
+<!-- HACKMDPOSTLIST:START -->
+- [Part 5 - Configuration Automations in Home Assistant for MQTT publishing by scanning the QR code](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/r1mT_nd2d)
+- [Part 4 - Building your own QR code scanner for Home Assistant](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/B1yor6Yid)
 - [Part 3 - Integrating zewelor/bt-mqtt-gateway and Home Assistant](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/Bkn1LUhq_)
-- [Part 2 - How to embed a hass-configurator webpage into Home Assistant on Raspberry Pi 4 in a Docker container](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/BJzBZEoqd)
-- [Part 1 - How to run Home Assistant on Raspberry Pi 4 in a Docker container](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/rJ_-X24cO)
-- [Creating a new image from an existing container with a Dockerfile](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/B1di8OPju)
 - [Generating HTML documentation site with AsyncAPI on Windows 10](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/Hy22Mkood)
-<!-- BLOG-POST-LIST:END -->
-
+- [Part 2 - How to embed a hass-configurator webpage into Home Assistant on Raspberry Pi 4 in a Docker container](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/BJzBZEoqd)
+<!-- HACKMDPOSTLIST:END -->
 ➡️ [more hackmd posts...](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw)
 
 ---
