@@ -51,6 +51,10 @@
 
 <!-- --- -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 📕 Latest HackMD Posts
 <!-- HACKMDPOSTLIST:START -->
 - [Part 5 - Configuration Automations in Home Assistant for MQTT publishing by scanning the QR code](https://hackmd.io/@JGoK5hXkSQuAC32KMw8hHw/r1mT_nd2d)
